@@ -1,0 +1,45 @@
+{
+    "room": "¥’‡®Ω÷°À—¥",
+    "author": "æ’§ÿß",
+    "icon": https://cdn.radiant.dj/rcs/emotes/img/blobs/307237551196995585.png,
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": #f90000,
+        "cohost": #f90057,
+        "manager": #0c00f9,
+        "bouncer": #9900f9,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": https://68.media.tumblr.com/f4378d6886920995ab57a84e020280a2/tumblr_ox868r90qK1vhinz0o1_1280.jpg,
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
